@@ -97,7 +97,7 @@ pip install streamlit oci
 Once you're done, launch the app with:
 
 ```python
-streamlit run ocr_vision_app.py
+streamlit run llama-ocr-oci.py
 ```
 
 
