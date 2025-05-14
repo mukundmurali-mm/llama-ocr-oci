@@ -1,5 +1,5 @@
 # 🧠 Build a No-Code OCR App Using OCI Generative AI and Streamlit
-#Blog-post-content/inprogress
+
 
 ![llama-ocr](images/image.png "llama-ocr")
 ## 👋 Introduction
@@ -41,7 +41,7 @@ From **Object Storage** to **Data Science**, **Monitoring**, and **Vault**, ever
 If you’re already on OCI, this setup takes you from raw image to structured text in minutes.
 
 ## 🛠 Prerequisites
-* ✅ ~[OCI CLI configured](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm)~ (~/.oci/config)
+* ✅ [OCI CLI configured](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm) (~/.oci/config)
 * ✅ Access to **OCI Generative AI Service** in of the regions mentioned below
 * ✅ A Vision-capable model deployed (like meta.llama-3.2-90b-vision-instruct)
 * ✅ Python 3.8+
